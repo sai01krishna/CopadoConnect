@@ -280,6 +280,16 @@
         <type>Hierarchy</type>
     </fields>
     <fields>
+        <fullName>Test_US__c</fullName>
+        <externalId>false</externalId>
+        <label>Test US</label>
+        <length>255</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>copado__API_URL__c</fullName>
         <deprecated>false</deprecated>
         <externalId>false</externalId>
