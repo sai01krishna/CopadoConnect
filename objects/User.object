@@ -204,6 +204,16 @@
         <trackFeedHistory>true</trackFeedHistory>
         <type>Hierarchy</type>
     </fields>
+    <fields>
+        <fullName>Test_US__c</fullName>
+        <externalId>false</externalId>
+        <label>Test US</label>
+        <length>255</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <listViews>
         <fullName>ActiveUsers</fullName>
         <filterScope>Everything</filterScope>
