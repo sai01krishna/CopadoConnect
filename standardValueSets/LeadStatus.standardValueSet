@@ -25,4 +25,10 @@
         <label>Closed - Not Converted</label>
         <converted>false</converted>
     </standardValue>
+    <standardValue>
+        <fullName>Value Created in uat</fullName>
+        <default>false</default>
+        <label>Value Created in uat</label>
+        <converted>false</converted>
+    </standardValue>
 </StandardValueSet>
