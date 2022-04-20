@@ -4,5 +4,9 @@
         <members>Mock_API</members>
         <name>CustomLabel</name>
     </types>
+    <types>
+        <members>Admin</members>
+        <name>Profile</name>
+    </types>
     <version>54.0</version>
 </Package>
